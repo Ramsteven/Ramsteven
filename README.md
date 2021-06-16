@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/daviramiz" target="blank"><img src="https://img.shields.io/twitter/follow/daviramiz?logo=twitter&style=for-the-badge" alt="daviramiz" /></a> </p>
 
-- 🔭 I’m currently working on **Koombea**
-
-- 🌱 I’m currently learning **React, Nodejs.**
+- 🌱 I’m currently learning **Azure Cloud.**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/daviramiz/](https://www.linkedin.com/in/daviramiz/)
 
