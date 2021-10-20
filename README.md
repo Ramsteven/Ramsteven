@@ -23,7 +23,7 @@
 <p align="left">
 
 
-<a href="https://twitter.com/daviramiz" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="daviramiz" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daviramiz/" target="blank"><img align="center" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1619296260~hmac=0c477794d4e364d71d34268a90d732b3" alt="https://www.linkedin.com/in/daviramiz/" height="30" width="40" /></a>
 
 
