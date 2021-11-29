@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/daviramiz" target="blank"><img src="https://img.shields.io/twitter/follow/daviramiz?logo=twitter&style=for-the-badge" alt="daviramiz" /></a> </p>
 
-- 🌱 I’m currently learning **Azure Cloud.**
+- 🌱 I’m currently learning **AWS Cloud.**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/daviramiz/](https://www.linkedin.com/in/daviramiz/)
 
-- 💬 Ask me about **Ruby on Rails and Python**
+- 💬 Ask me about **Python and Spring boot**
 
 - 📫 How to reach me **ramsteven@gmail.com**
 
