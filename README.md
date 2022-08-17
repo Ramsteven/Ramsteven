@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Ramirez</h1>
-<h3 align="center">I'm a software developer specialized in backend with experience in Ruby on rails, python, C, and SQL, also working with React and Nodejs.</h3>
+<h3 align="center">I'm a software developer specialized in backend with experience Java, React and Nodejs.</h3>
 
 <p align="left"> <a href="https://twitter.com/daviramiz" target="blank"><img src="https://img.shields.io/twitter/follow/daviramiz?logo=twitter&style=for-the-badge" alt="daviramiz" /></a> </p>
 
